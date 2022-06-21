@@ -1,0 +1,11 @@
+* {
+    cursor: crosshair;
+}
+
+#ShootPoint {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: solid red 1px;
+    border-radius: 50px;
+}
